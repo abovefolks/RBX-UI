@@ -1,7 +1,6 @@
 {
   "name": "rbx-ui",
   "tree": {
-    "$className": "Folder",
     "$path": "Components/UI"
   }
 }
