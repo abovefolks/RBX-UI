@@ -1,35 +1,7 @@
 {
-  "name": "RBX UI",
+  "name": "rbx-ui",
   "tree": {
-    "$className": "DataModel",
-
-    "ReplicatedStorage": {
-      "Shared": {
-        "$path": "src/shared"
-      },
-      "Components": {
-        "$path": "Components"
-      },
-      "Packages": {
-        "$path": "Packages"
-      }
-    },
-
-    "ServerScriptService": {
-      "Server": {
-        "$path": "src/server"
-      },
-      "ServerPackages": {
-        "$path": "ServerPackages"
-      }
-    },
-
-    "StarterPlayer": {
-      "StarterPlayerScripts": {
-        "Client": {
-          "$path": "src/client"
-        }
-      }
-    }
+    "$className": "Folder",
+    "$path": "Components/UI"
   }
 }
