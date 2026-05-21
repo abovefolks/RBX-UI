@@ -32,7 +32,7 @@ This project uses [Wally](https://wally.run/) for dependency management.
 
 ```toml
 [dependencies]
-RbxUI = "ryan/rbx-ui@0.1.0"
+RbxUI = "renz/rbx-ui@0.1.0"
 ```
 
 Run `wally install` to download dependencies.
