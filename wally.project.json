@@ -1,0 +1,7 @@
+{
+  "name": "rbx-ui",
+  "tree": {
+    "$className": "ModuleScript",
+    "$path": "Components/UI"
+  }
+}

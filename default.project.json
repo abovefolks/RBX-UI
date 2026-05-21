@@ -1,6 +1,23 @@
 {
-  "name": "rbx-ui",
+  "name": "RBX UI",
   "tree": {
-    "$path": "Components/UI"
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Packages": {
+        "$path": "Packages"
+      },
+      "Components": {
+        "$path": "Components/UI"
+      }
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "Client": {
+          "$path": "src/client"
+        }
+      }
+    }
   }
 }

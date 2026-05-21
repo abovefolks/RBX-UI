@@ -9,5 +9,4 @@ return {
 	Slider = require(script.Slider),
 	Theme = require(script.Theme),
 	Toggle = require(script.Toggle),
-	UseAtom = require(script.UseAtom),
 }
